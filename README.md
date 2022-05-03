@@ -9,8 +9,8 @@
 
 ### GitHub Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samvvw&show_icons=true&title_color=f2f2f2&icon_color=795f97&text_color=9e9e9e&bg_color=353535)](https://github.com/samvvw)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samvvw&show_icons=true&theme=gruvbox)](https://github.com/samvvw)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samvvw&layout=compact&show_icons=true&title_color=f2f2f2&icon_color=795f97&text_color=9e9e9e&bg_color=353535)](https://github.com/samvvw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samvvw&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/samvvw)
